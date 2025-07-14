@@ -32,6 +32,7 @@ body {
  border: 2px solid transparent;
  box-shadow: 0 10px 10px rgba(0, 0, 0, 0.05);
  transition: 0.2s ease;
+ max-width: 300px;
 }
 .card-list .card-item .card-link:active {
  cursor: grabbing;
